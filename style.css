@@ -129,6 +129,7 @@
     letter-spacing: 1px;
 }
 .user-info-container{
+    padding-top:23px;
     display: flex;
     justify-content: center;
     align-items: center;
